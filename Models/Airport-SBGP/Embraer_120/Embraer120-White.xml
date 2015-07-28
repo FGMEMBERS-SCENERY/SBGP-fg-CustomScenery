@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <description>emb120</description>
+  <author>Denis Silva</author>
+  <status>early-production</status>
+  <path>Models/Embraer_120.ac</path>
+  <texture-path>Textures/White</texture-path>
+
+</PropertyList>
+
+
+

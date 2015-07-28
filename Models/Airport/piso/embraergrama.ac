@@ -1,0 +1,67 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+OBJECT world
+kids 2
+OBJECT poly
+name "rect"
+loc 0.00822103 0.542268 -0.198905
+texture "embraergrama.png"
+crease 45.000000
+numvert 8
+-34.0493 -0.874556 12.5412
+-34.0493 -0.874555 -12.5412
+34.0493 -0.874556 12.5412
+34.0493 -0.874555 -12.5412
+-29.322 -4.17233e-007 10.8
+29.322 -4.17233e-007 10.8
+29.322 4.17233e-007 -10.8
+-29.322 4.17233e-007 -10.8
+numsurf 4
+SURF 0x30
+mat 0
+refs 4
+4 0 0
+0 0 0
+1 0 0
+7 0 0
+SURF 0x30
+mat 0
+refs 4
+5 0 0
+2 0 0
+0 0 0
+4 0 0
+SURF 0x30
+mat 0
+refs 4
+7 0 0
+1 0 0
+3 0 0
+6 0 0
+SURF 0x30
+mat 0
+refs 4
+6 0 0
+3 0 0
+2 0 0
+5 0 0
+kids 0
+OBJECT poly
+name "grama"
+loc 0.00822103 0.542268 -0.198905
+texture "embraergrama.png"
+crease 45.000000
+numvert 4
+-29.322 4.17233e-007 -10.8
+29.322 4.17233e-007 -10.8
+29.322 -4.17233e-007 10.8
+-29.322 -4.17233e-007 10.8
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+0 0 1
+1 1 1
+2 1 0.0139988
+3 0 0.0139988
+kids 0

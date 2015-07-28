@@ -1,0 +1,2442 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 0.2 0.2 0.2  emis 1 1 1  spec 0 0 0  shi 10  trans 0
+OBJECT world
+kids 442
+OBJECT poly
+name "rect"
+loc -29.4509 11.5562 27.2755
+texture "texture3.png"
+crease 45.000000
+numvert 4
+0 2.39237 -26.6387
+0 2.39237 15.3792
+0 -2.39237 15.3792
+0 -2.39237 -26.6387
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+0 0 1
+1 1 1
+2 1 0
+3 0 0
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -184.549 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -191.083 -50.9444 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.938 -67.617 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.835 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -189.369 -51.3575 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.116 -68.0302 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -133.92 -68.2679 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -178.007 -38.0938 124.946
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.076 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.692 -21.1442 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -185.541 -27.8597 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.489 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -148.104 -21.3106 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -186.218 -28.0262 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -193.796 -28.1219 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -157.466 -15.9682 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.469 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.085 -16.1006 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -144.935 -22.8161 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.882 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.498 -16.267 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.612 -22.9825 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.189 -23.0783 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.86 -10.9245 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.292 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -147.758 -47.5455 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -194.903 -64.2181 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.006 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -149.472 -47.9586 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -195.725 -64.6313 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.921 -64.869 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -160.833 -34.6949 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.014 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -98.48 -35.0237 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.626 -51.6963 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.728 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -100.195 -35.4368 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.447 -52.1095 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.643 -52.3472 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.556 -22.1731 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.122 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.588 -47.5455 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -203.734 -64.2181 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.837 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -158.303 -47.9586 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.555 -64.6313 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -213.751 -64.869 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -169.664 -34.6949 -229.196
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.845 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.311 -35.0237 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.456 -51.6963 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -115.559 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -109.025 -35.4368 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.278 -52.1095 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.474 -52.3472 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -120.386 -22.1731 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 4.62674 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 11.1607 -50.1851 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -35.985 -66.8577 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.91223 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 9.44617 -50.5982 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -36.8065 -67.2709 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -46.0022 -67.5086 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -1.91513 -37.3345 0
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -184.549 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -191.083 -50.9444 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.938 -67.617 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.835 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -189.369 -51.3575 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.116 -68.0302 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -133.92 -68.2679 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -178.007 -38.0938 124.946
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.076 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.692 -21.1442 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -185.541 -27.8597 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.489 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -148.104 -21.3106 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -186.218 -28.0262 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -193.796 -28.1219 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -157.466 -15.9682 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.469 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.085 -16.1006 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -144.935 -22.8161 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.882 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.498 -16.267 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.612 -22.9825 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.189 -23.0783 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.86 -10.9245 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.292 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -147.758 -47.5455 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -194.903 -64.2181 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.006 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -149.472 -47.9586 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -195.725 -64.6313 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.921 -64.869 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -160.833 -34.6949 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.014 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -98.48 -35.0237 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.626 -51.6963 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.728 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -100.195 -35.4368 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.447 -52.1095 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.643 -52.3472 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.556 -22.1731 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.122 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.588 -47.5455 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -203.734 -64.2181 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.837 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -158.303 -47.9586 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.555 -64.6313 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -213.751 -64.869 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -169.664 -34.6949 -229.196
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.845 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.311 -35.0237 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.456 -51.6963 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -115.559 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -109.025 -35.4368 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.278 -52.1095 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.474 -52.3472 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -120.386 -22.1731 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 4.62674 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 11.1607 -50.1851 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -35.985 -66.8577 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.91223 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 9.44617 -50.5982 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -36.8065 -67.2709 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -46.0022 -67.5086 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -1.91513 -37.3345 0
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT poly
+name "box"
+loc 4.10841 3.81096 16.3365
+texture "texture8.jpg"
+crease 45.000000
+numvert 6
+25.8902 -4.37868 -58.7664
+25.8902 -4.37868 26.5571
+25.8902 5.36326 -58.7664
+25.8902 5.36326 26.5571
+25.8902 -4.37868 -16.1047
+25.8902 5.36326 -16.1047
+numsurf 2
+SURF 0x20
+mat 0
+refs 4
+3 1 0.308039
+1 1 0
+4 0.499999 0
+5 0.499999 0.308039
+SURF 0x20
+mat 0
+refs 4
+4 0.499999 0
+0 0 0
+2 0 0.308039
+5 0.499999 0.308039
+kids 0
+OBJECT poly
+name "rect"
+loc -29.3992 -0.0881338 -0.273075
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+0 14.0845 43.1117
+0 14.0845 -42.1568
+0 9.26235 -42.1568
+0 9.26235 43.1117
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 0.0613006 0.969255
+1 0.00208973 0.969255
+2 0.00208973 0.962907
+3 0.0613006 0.962907
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+29.9986 9.18308 0.2318
+29.9986 9.18308 -42.4299
+29.9986 14.0052 -42.4299
+29.9986 14.0052 0.2318
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0.0613006 0.969255
+2 0.120959 0.969255
+1 0.120959 0.962907
+0 0.0613006 0.962907
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886345 0
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+29.9986 14.0052 0.231796
+29.9986 14.0052 42.8936
+29.9986 9.18308 42.8936
+29.9986 9.18308 0.231796
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 0.0613006 0.969255
+1 0.00208955 0.969255
+2 0.00208955 0.962907
+3 0.0613006 0.962907
+kids 0
+OBJECT poly
+name "box"
+loc -29.3992 3.81096 -3.30258
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+0 5.36326 40.4289
+0 -4.37868 40.4289
+0 5.36326 46.1962
+0 -4.37868 46.1962
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+1 0.942159 0.169466
+3 0.969339 0.169466
+2 0.969339 0.254917
+0 0.942159 0.254917
+kids 0
+OBJECT poly
+name "box"
+loc -29.3992 3.81096 61.8234
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+0 -4.37868 -57.7493
+0 5.36326 -57.7493
+0 -4.37868 -65.1551
+0 5.36326 -65.1551
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+2 0.398336 0.191849
+0 0.994139 0.191849
+1 0.994139 0.22465
+3 0.398336 0.22465
+kids 0
+OBJECT poly
+name "box"
+loc -29.3992 3.81096 65.0997
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+0 5.36326 -107.53
+0 -4.37868 -107.53
+0 5.36326 -100.3
+0 -4.37868 -100.3
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+1 0.942159 0.169466
+3 0.969339 0.169466
+2 0.969339 0.254917
+0 0.942159 0.254917
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -184.549 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -191.083 -50.9444 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.938 -67.617 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.835 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -189.369 -51.3575 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.116 -68.0302 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -133.92 -68.2679 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -178.007 -38.0938 124.946
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.076 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.692 -21.1442 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -185.541 -27.8597 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.489 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -148.104 -21.3106 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -186.218 -28.0262 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -193.796 -28.1219 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -157.466 -15.9682 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.469 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.085 -16.1006 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -144.935 -22.8161 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.882 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.498 -16.267 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.612 -22.9825 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.189 -23.0783 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.86 -10.9245 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.292 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -147.758 -47.5455 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -194.903 -64.2181 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.006 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -149.472 -47.9586 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -195.725 -64.6313 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.921 -64.869 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -160.833 -34.6949 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.014 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -98.48 -35.0237 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.626 -51.6963 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.728 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -100.195 -35.4368 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.447 -52.1095 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.643 -52.3472 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.556 -22.1731 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.122 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.588 -47.5455 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -203.734 -64.2181 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.837 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -158.303 -47.9586 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.555 -64.6313 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -213.751 -64.869 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -169.664 -34.6949 -229.196
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.845 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.311 -35.0237 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.456 -51.6963 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -115.559 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -109.025 -35.4368 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.278 -52.1095 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.474 -52.3472 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -120.386 -22.1731 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 4.62674 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 11.1607 -50.1851 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -35.985 -66.8577 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.91223 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 9.44617 -50.5982 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -36.8065 -67.2709 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -46.0022 -67.5086 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -1.91513 -37.3345 0
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -183.853 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -184.549 -51.1311 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -191.083 -50.9444 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.938 -67.617 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.139 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -182.835 -51.5442 124.946
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -189.369 -51.3575 125.156
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -143.116 -68.0302 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -133.92 -68.2679 101.964
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -178.007 -38.0938 124.946
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -181.861 -26.6323 124.936
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.649 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -152.076 -21.2194 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.692 -21.1442 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -185.541 -27.8597 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.062 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.489 -21.3858 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -148.104 -21.3106 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -186.218 -28.0262 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -193.796 -28.1219 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -157.466 -15.9682 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -154.291 -11.3516 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.043 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.469 -16.1758 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.085 -16.1006 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -144.935 -22.8161 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.456 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -112.882 -16.3422 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.498 -16.267 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.612 -22.9825 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -153.189 -23.0783 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.86 -10.9245 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.988 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.292 -47.7322 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -147.758 -47.5455 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -194.903 -64.2181 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.702 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.006 -48.1453 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -149.472 -47.9586 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -195.725 -64.6313 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.921 -64.869 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -160.833 -34.6949 360.722
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -156.98 -23.2334 360.732
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.71 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -105.014 -35.2104 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -98.48 -35.0237 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -145.626 -51.6963 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.425 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -106.728 -35.6235 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -100.195 -35.4368 360.512
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -146.447 -52.1095 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.643 -52.3472 383.704
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -111.556 -22.1731 360.722
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.818 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -163.122 -47.7322 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -156.588 -47.5455 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -203.734 -64.2181 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -165.533 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.837 -48.1453 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -158.303 -47.9586 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -204.555 -64.6313 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -213.751 -64.869 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -169.664 -34.6949 -229.196
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc -165.811 -23.2334 -229.186
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -114.541 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -113.845 -35.2104 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -107.311 -35.0237 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -154.456 -51.6963 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -116.255 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -115.559 -35.6235 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -109.025 -35.4368 -229.405
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -155.278 -52.1095 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -164.474 -52.3472 -206.214
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -120.386 -22.1731 -229.196
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 3.93058 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 4.62674 -50.3718 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 11.1607 -50.1851 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -35.985 -66.8577 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.21607 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 2.91223 -50.7849 0
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc 9.44617 -50.5982 -0.209609
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -36.8065 -67.2709 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -46.0022 -67.5086 22.9817
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.011"
+loc -1.91513 -37.3345 0
+crease 30.000000
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT group
+name "FuselageForwardTop"
+loc 1.9383 -25.873 0.00995435
+kids 0
+OBJECT poly
+name "box"
+loc 4.10841 3.81096 16.3365
+texture "texture8.jpg"
+crease 45.000000
+numvert 6
+24.9328 5.36326 -16.1047
+24.9328 -4.37868 -16.1047
+24.9328 5.36326 26.5571
+24.9328 5.36326 -58.7664
+24.9328 -4.37868 26.5571
+24.9328 -4.37868 -58.7664
+numsurf 2
+SURF 0x20
+mat 0
+refs 4
+1 0.0913275 0.986609
+5 0.0252866 0.986609
+3 0.0252866 0.986609
+0 0.0913275 0.986609
+SURF 0x20
+mat 0
+refs 4
+2 0.0252866 0.986609
+4 0.0252866 0.986609
+1 0.0913275 0.986609
+0 0.0913275 0.986609
+kids 0
+OBJECT poly
+name "rect"
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+-29.3992 13.9963 0.2318
+29.9986 13.9963 0.2318
+29.9986 9.17422 -42.4299
+-29.3992 9.17422 -42.4299
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0.00513729 0.985938
+2 0.12287 0.985938
+1 0.12287 0.986763
+0 0.00513729 0.986763
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+-29.3992 9.18308 42.8936
+29.9986 9.18308 42.8936
+29.9986 -0.558853 42.8936
+-29.3992 -0.558853 42.8936
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 0.973666 0.185362
+1 0.387846 0.185362
+2 0.387846 0.21075
+3 0.973666 0.21075
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+-29.3992 -0.558853 -42.4299
+29.9986 -0.558853 -42.4299
+29.9986 9.18308 -42.4299
+-29.3992 9.18308 -42.4299
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0.973666 0.185362
+2 0.387846 0.185362
+1 0.387846 0.21075
+0 0.973666 0.21075
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+-29.3992 14.0052 -42.4299
+29.9986 14.0052 -42.4299
+29.9986 9.18308 -42.4299
+-29.3992 9.18308 -42.4299
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 0.115029 0.96532
+1 0.00112414 0.96532
+2 0.00112414 0.969206
+3 0.115029 0.969206
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+-29.3992 9.18308 42.8936
+29.9986 9.18308 42.8936
+29.9986 14.0052 42.8936
+-29.3992 14.0052 42.8936
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0.115029 0.96532
+2 0.00112414 0.96532
+1 0.00112414 0.969206
+0 0.115029 0.969206
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+-29.3992 9.18308 -41.4725
+29.9986 9.18308 -41.4725
+29.9986 -0.558853 -41.4725
+-29.3992 -0.558853 -41.4725
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 0.117253 0.981339
+1 0.00528626 0.981339
+2 0.00528626 0.996197
+3 0.117253 0.996197
+kids 0
+OBJECT poly
+name "rect"
+loc 0 -0.00886297 0
+texture "texture8.jpg"
+crease 45.000000
+numvert 4
+-29.3992 -0.558853 42.1277
+29.9986 -0.558853 42.1277
+29.9986 9.18308 42.1277
+-29.3992 9.18308 42.1277
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0.117253 0.981339
+2 0.00528626 0.981339
+1 0.00528626 0.996197
+0 0.117253 0.996197
+kids 0
+OBJECT poly
+name "rect"
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+-29.3992 9.17422 42.8936
+29.9986 9.17422 42.8936
+29.9986 13.9963 0.231796
+-29.3992 13.9963 0.231796
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 0.00513729 0.985938
+1 0.12287 0.985938
+2 0.12287 0.986763
+3 0.00513729 0.986763
+kids 0
+OBJECT poly
+name "rect"
+loc -29.4304 11.5471 -15.3099
+texture "texture1.jpg"
+crease 45.000000
+numvert 4
+0 -2.40099 -27.1162
+0 -2.40099 15.6548
+0 2.40099 15.6548
+0 2.40099 -27.1162
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+3 0 1
+2 1 1
+1 1 0
+0 0 0
+kids 0
